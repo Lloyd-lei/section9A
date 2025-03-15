@@ -61,12 +61,3 @@ This task involves simulating a two-body problem where a planet orbits around a 
 ### Task 3: Optimization Methods
 
 This task involves implementing and comparing different optimization methods (Gradient Descent, Metropolis-Hastings algorithm, and Simulated Annealing) to find the global minimum of a noisy φ⁴ potential function.
-
-## Author
-
-[Your Name]
-
-## Acknowledgments
-
-- UCSB Physics Department
-- Zihang Wang (TA) 
